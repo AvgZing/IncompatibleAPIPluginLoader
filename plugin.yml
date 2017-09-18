@@ -3,7 +3,7 @@ name: IncompatibleAPIPluginLoader
 main: Sandertv\IncompatibleApiPluginLoader\IncompatibleApiPluginLoader
 version: 0.1.0
 api:
-- 3.0.0-ALPHA7
+- 1.12.0
 author: Sandertv
 description: Allows enabling all plugins, disregarding the API version of it.
 load: POSTWORLD
